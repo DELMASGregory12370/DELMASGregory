@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-01T09:10:16.346Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Co9-KpoeagOYHo9S267t" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-01T09:14:48.322Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="S6_ZMbfIREfk7ZNFa9JD" version="24.6.4" type="github">
   <diagram name="Page-1" id="8-Un9mP4CI7cs1p9Rqkq">
     <mxGraphModel dx="1485" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,11 +10,11 @@
         <mxCell id="-KCOtKO4u_WiJWK0Voqh-5" value="&lt;font style=&quot;font-size: 42px;&quot;&gt;zoo arcadia&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="2410" y="230" width="270" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-KCOtKO4u_WiJWK0Voqh-11" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="150" y="350" width="160" height="280" as="geometry" />
+        <mxCell id="-KCOtKO4u_WiJWK0Voqh-15" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;visiteur&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="320" width="70" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="-KCOtKO4u_WiJWK0Voqh-12" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="150" y="830" width="150" height="290" as="geometry" />
+        <mxCell id="-KCOtKO4u_WiJWK0Voqh-19" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="525" width="80" height="125" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
